@@ -1,0 +1,14 @@
+/* css styles */
+body {
+  background-color: peru; 
+  font-family: "Garamond", serif;
+    color: white;
+  font-size: 24px;
+}
+
+section {
+  background-color: olive; 
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
