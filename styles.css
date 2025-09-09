@@ -1,14 +1,14 @@
 /* css styles */
 body {
-  background-color: peru; 
+  background-color: #e87500 ; 
   font-family: "Garamond", serif;
     color: white;
   font-size: 20px;
 }
 
 section {
-  background-color: olive; 
-  padding: 10px;
+  background-color: #154734; 
+  padding: 5px;
   border-radius: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
