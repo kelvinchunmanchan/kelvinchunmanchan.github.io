@@ -1,0 +1,36 @@
+/* css styles */
+body, h1, h2, h3, h4, h5, h6 {
+  background-color: #e87500; 
+  font-family: "Garamond", serif !important;
+  color: white;
+  font-size: 20px;
+}
+
+section {
+  background-color: #154734; 
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin: 0 0 4px 0;
+  width: auto; 
+}
+
+/* Table styling */
+table {
+  width: 100%;             /* Table fills available width */
+  table-layout: auto;      /* Columns adjust based on content */
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+th, td {
+  padding: 6px 10px;       /* Add some spacing */
+  word-wrap: break-word;   /* Wrap long text */
+  vertical-align: top;
+  border-bottom: 1px solid white; /* Optional: add subtle row separation */
+}
+
+th {
+  text-align: left;
+  font-weight: bold;
+}
